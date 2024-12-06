@@ -1,0 +1,4 @@
+*.o
+fractol
+MLX42
+include/MLX42.h
